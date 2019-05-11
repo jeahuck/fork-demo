@@ -1,1 +1,1 @@
-console.log("hi10")
+console.log("hi1ㄷㄷㄷ0")
